@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(188, 46, 46); /* Красный фон */
+    background-color: rgb(188, 47, 47); /* Красный фон */
     color: white; /* Белый текст */
     font-family: Arial, sans-serif;
     text-align: center;
@@ -30,7 +30,7 @@ body {
     width: 200px;
     height: auto;
     border-radius: 50%;
-    opacity: 0;
+    opacity: 1;
     margin-top: 30px;
-    animation: fadeIn 3s ease-in forwards;
+    animation: fadeIn 101s ease-in forwards;
 }
